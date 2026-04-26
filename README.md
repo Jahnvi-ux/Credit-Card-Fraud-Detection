@@ -113,19 +113,6 @@ Enables users to simulate detailed transaction data and analyze fraud probabilit
 └── README.md
 ```
 
----
-
-## 📎 Installation & Setup
-
-```bash
-git clone https://github.com/Reeya0409/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
 ## 📚 References
 
 * Kaggle Credit Card Fraud Dataset

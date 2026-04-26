@@ -144,5 +144,3 @@ streamlit run app.py
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
 
-* Add **badges (build, license, accuracy, etc.)** to make it look even more professional 🚀
-

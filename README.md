@@ -1,7 +1,7 @@
 
 # 💳 AI-Powered Credit Card Fraud Detection System
 
-🔗 **Live Demo:** [Launch Application](https://credit-card-fraud-detection-1-thwy.onrender.com)
+🔗 **Live Demo:** [Launch Application](https://credit-card-fraud-detection-st64.onrender.com/)
 
 ---
 
